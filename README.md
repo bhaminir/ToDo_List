@@ -4,7 +4,7 @@
 
 Submitted by: **Bhamini Rajanna**
 
-Time spent: **7** hours spent in total
+Time spent: **13** hours spent in total
 
 ## User Stories
 
