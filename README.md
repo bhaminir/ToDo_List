@@ -1,4 +1,4 @@
-# Project 1 - *To-Do list*
+# Kotlin Project - *To-Do list*
 
 **To-Do list** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='ToDowalkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
